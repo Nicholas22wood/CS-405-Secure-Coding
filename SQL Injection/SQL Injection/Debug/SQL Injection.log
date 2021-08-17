@@ -1,0 +1,5 @@
+﻿  SQLInjection.cpp
+C:\Users\Nicho\OneDrive\Desktop\School\June - August 2021\CS 405\Mod 2\Given Files\CS 405 M2 SQLInjection code files\CS 405 M2 SQLInjection code files\SQLInjection.cpp(83,8): warning C4102: 'std': unreferenced label
+C:\Users\Nicho\OneDrive\Desktop\School\June - August 2021\CS 405\Mod 2\Given Files\CS 405 M2 SQLInjection code files\CS 405 M2 SQLInjection code files\SQLInjection.cpp(186,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sqlite3.c
+  SQL Injection.vcxproj -> C:\Users\Nicho\source\repos\SQL Injection\Debug\SQL Injection.exe
