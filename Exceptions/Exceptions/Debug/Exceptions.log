@@ -1,0 +1,4 @@
+﻿  Exceptions.cpp
+C:\Users\Nicho\source\repos\Exceptions\Exceptions\Exceptions.cpp(17,34): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\Nicho\source\repos\Exceptions\Exceptions\Exceptions.cpp(17,18): warning C4309: 'initializing': truncation of constant value
+  Exceptions.vcxproj -> C:\Users\Nicho\source\repos\Exceptions\Debug\Exceptions.exe
